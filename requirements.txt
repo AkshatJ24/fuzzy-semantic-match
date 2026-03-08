@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+chromadb
+scikit-learn
+numpy
+pandas
+python-dotenv
+joblib
+scipy

@@ -1,0 +1,4 @@
+CHROMA_PATH=./chroma_db
+MODEL_NAME=all-MiniLM-L6-v2
+CLUSTER_MODEL_PATH=./gmm_model.joblib
+CACHE_THRESHOLD=0.60
